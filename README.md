@@ -5,8 +5,8 @@ Il a ete Implemente essentiellement avec Angular(cote Client/Arriere plan) & Lar
 
 Les Besoins d'installation (Requirements):
   Vous Aurez besoin:
-   -d'un gestionnaire de services Apache et MySql a l'instar de Xampp(Recommanded), Wamp, Laragon
-   -node Js et de son gestionnaire de paquet(npm) preinstalles dans votre Ordinateur
+   - d'un gestionnaire de services Apache et MySql a l'instar de Xampp(Recommanded), Wamp, Laragon
+   - node Js et de son gestionnaire de paquet(npm) preinstalles dans votre Ordinateur
    - de Laravel preinstalled (pour vous aider https://cynoteck.com/fr/blog-post/installing-laravel-8-on-windows-10-xampp/)
    - de Composer.
 
